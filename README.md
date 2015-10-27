@@ -1,4 +1,4 @@
-# MariaDB Data Docker Image
+# MariaDB Docker Data Volume Image
 Docker image to be used as a data volume for mariadb 
 
 This will allow data to persist and must be used with --volumes-from switch when running other containers.
